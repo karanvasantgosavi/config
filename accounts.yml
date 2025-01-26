@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Accounts service"
+  contactDetails:
+    name: "Accounts team"
+    email: "accounts@localhost"
+  onCallSupport:
+    -(555)555-1234
+    -(555)555-1235

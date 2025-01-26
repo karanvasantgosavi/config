@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Cards service"
+  contactDetails:
+    name: "Cards team"
+    email: "cards@localhost"
+  onCallSupport:
+    -(555)555-123
