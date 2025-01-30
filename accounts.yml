@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Accounts service"
+  contactDetails:
+    name: "Accounts team"
+    email: "accounts@localhost"
+  onCallSupport:
+    -(345)678-123
