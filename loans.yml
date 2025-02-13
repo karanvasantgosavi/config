@@ -1,0 +1,12 @@
+build:
+  version: 5.0
+
+
+loans:
+  message: "Loans service"
+  contactDetails:
+    name: "Loans team"
+    email: "loans@localhost"
+  onCallSupport:
+    -(999)999-9999
+    -(999)999-9999
